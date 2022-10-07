@@ -1,5 +1,5 @@
 #Time delay in ticks
-delay: 1
+delay: 5
 
 #require the user to have the permission:
 require: true
