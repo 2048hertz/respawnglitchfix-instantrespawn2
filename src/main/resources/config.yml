@@ -1,5 +1,14 @@
 #Time delay in ticks
 delay: 5
 
-#require the user to have the permission:
+#Require the user to have the permission:
 require: true
+#Permissions:
+#instantrespawn.command:
+#This permission enables or disables the usage of the /instantrespawn command.
+#
+#instantrespawn.reload:
+#This permission is used to allow or stop the user from reloading the configuration.
+#
+#instantrespawn.respawn:
+#This permission is used to enable instant respawning for the player
