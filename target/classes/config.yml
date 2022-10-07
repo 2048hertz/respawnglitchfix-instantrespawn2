@@ -1,5 +1,0 @@
-#Time delay in ticks
-delay: 1
-
-#require the user to have the permission:
-require: true
