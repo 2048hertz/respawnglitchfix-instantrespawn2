@@ -1,4 +1,4 @@
-# respawnglitchfix
+# respawnglitchfix/instantrespawn2
 a simple solution to the respawn glitch in GeyserMC
 
 This is made from the InstantRespawn plugin by compgeek28, its very old and outdated so the point of this is to fix all the problems like can't pick up items after death 
