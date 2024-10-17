@@ -9,6 +9,6 @@ a simple solution to the respawn glitch in GeyserMC
 
 - can be used as a complete replacement for the InstantRespawn plugin!
 
-- report any problems to me in discord or email and I will try my best to make time and fix it
+- report any problems to me in telegram (infinitehertz) or email and I will try my best to make time and fix it
 
 if you are looking for another fix to the problem and this solution has not worked for you, try removing the viaversion plugin (there was some sort of conflict but I never went into the details)
